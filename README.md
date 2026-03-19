@@ -1,6 +1,9 @@
 ## Hi there 👋
-👨‍💻 Currently studying at 42 Lisboa
-📫 How to reach me dev@mikecoutinho.com
+
+- 👨‍💻 Currently studying at **42 Lisboa**
+
+- 📫 How to reach me **dev@mikecoutinho.com**
+
 <!--
 **mike-coutinho/mike-coutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
