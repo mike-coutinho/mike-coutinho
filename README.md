@@ -1,9 +1,9 @@
 ## Hi there 👋
-
+<div style="align-center">
 - 👨‍💻 Currently studying at **42 Lisboa**
 
 - 📫 How to reach me **dev@mikecoutinho.com**
-
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-coutinho&theme=dark" alt="mike-coutinho" /></p>
 <!--
