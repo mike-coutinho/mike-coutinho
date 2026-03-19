@@ -1,13 +1,10 @@
+<div align="center">
 
-## 🚀 Projects
-
-### 42 Lisboa
+## 🚀 42 LisboaProjects
 
 | Project        | Description                                      | Grade |
 |----------------|--------------------------------------------------|------|
 | [Libft](https://github.com/mike-coutinho/libft)          | Custom implementation of standard C library      | NDY |
-
-<div align="center">
 
 ## 👋 About me
   
