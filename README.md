@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🚀 42 LisboaProjects
+## 🚀 42 Lisboa Projects
 
 | Project        | Description                                      | Grade |
 |----------------|--------------------------------------------------|------|
