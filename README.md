@@ -8,7 +8,7 @@
 
 ## 👋 About me
   
-💻 Working web dev since 2022
+💻 Crafting websites 2022
 
 📚 Currently studying C and Python at **42 Lisboa**
 
