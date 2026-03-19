@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div style="align-center">
+<div align="center">
 - 👨‍💻 Currently studying at **42 Lisboa**
 
 - 📫 How to reach me **dev@mikecoutinho.com**
