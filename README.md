@@ -39,7 +39,7 @@
 
 ## 🎓 CS50x Certificate
 
-<a href="https://cs50.harvard.edu/certificates/9d94f548-b753-4f6b-8704-95c9b12a0af7" target="_blank">
+<a href="https://cs50.harvard.edu/certificates/9d94f548-b753-4f6b-8704-95c9b12a0af7">
   <img src="https://certificates.cs50.io/9d94f548-b753-4f6b-8704-95c9b12a0af7.png"
        alt="CS50x Certificate"
        width="495">
