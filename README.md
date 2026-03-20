@@ -8,7 +8,7 @@
 
 ## 👋 About me
   
-💻 Crafting websites 2022
+💻 Crafting websites since 2022
 
 📚 Currently studying C and Python at **42 Lisboa**
 
