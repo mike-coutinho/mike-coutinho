@@ -4,7 +4,7 @@
 
 | Project        | Description                                      | Grade |
 |----------------|------|------|
-| [Libft](https://github.com/mike-coutinho/libft)    |    [Pdf](https://github.com/mike-coutinho/42-new-common-core-subjects/blob/main/Libft-new-common-core-subject-v19.2.pdf)    | Custom implementation of standard C library      | NDY |
+| [Libft](https://github.com/mike-coutinho/libft)    | Custom implementation of standard C library      | NDY |
 
 ## 👋 About me
   
