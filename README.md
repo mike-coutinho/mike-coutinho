@@ -4,7 +4,7 @@
 
 | Project        | Description                                      | Grade |
 |----------------|------|------|
-| [Libft](https://github.com/mike-coutinho/libft)    | Custom implementation of standard C library      | NDY |
+| [Libft](https://github.com/mike-coutinho/libft)    | Custom implementation of standard C library      | NGY |
 
 ## 👋 About me
   
