@@ -42,8 +42,8 @@
 
 ## 🎓 CS50x Certificate
 
-<a href="https://cs50.harvard.edu/certificates/9d94f548-b753-4f6b-8704-95c9b12a0af7">
-  <img src="https://certificates.cs50.io/9d94f548-b753-4f6b-8704-95c9b12a0af7.png"
+<a href="https://courses.edx.org/certificates/ff68786a6caa45609cc4a2e0565bffc9">
+  <img src="https://raw.githubusercontent.com/mike-coutinho/mike-coutinho/refs/heads/main/Verified%20Certificate.png"
        alt="CS50x Certificate"
        width="495">
 </a>
