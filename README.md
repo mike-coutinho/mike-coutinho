@@ -45,7 +45,7 @@
 <a href="https://courses.edx.org/certificates/ff68786a6caa45609cc4a2e0565bffc9">
   <img src="https://raw.githubusercontent.com/mike-coutinho/mike-coutinho/refs/heads/main/Verified%20Certificate.png"
        alt="CS50x Certificate"
-       width="600">
+       width="750">
 </a>
 
 </div>
