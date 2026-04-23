@@ -4,7 +4,8 @@
 
 | Project        | Description                                      | Grade |
 |----------------|------|------|
-| [Libft](https://github.com/mike-coutinho/libft)    | Custom implementation of standard C library      | NGY |
+| [Libft](https://github.com/mike-coutinho/libft)    | Custom implementation of standard C library      | 100 |
+| [Ft_Printf](https://github.com/mike-coutinho/Ft_printf)    | Reimplentation of printf     | NGY |
 
 ## 👋 About me
   
