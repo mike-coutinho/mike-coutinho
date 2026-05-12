@@ -1,4 +1,6 @@
 <div align="center">
+  
+<img  src="https://i.pinimg.com/1200x/13/64/17/1364178e91ac88f6efee80cc26ae3586.jpg" alt="mike-coutinho" />
 
 ## 🚀 42 Lisboa Projects
 
