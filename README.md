@@ -8,7 +8,7 @@
 |----------------|------|------|
 | [Libft](https://github.com/mike-coutinho/libft)    | Custom implementation of standard C library      | 100 |
 | [Ft_Printf](https://github.com/mike-coutinho/Ft_printf)    | Reimplentation of printf     | 100 |
-| [Get_next_line](https://github.com/mike-coutinho/Get-Next-Line))    | Reading a line from a file descriptor is way too tedious.  | 100 |
+| [Get_next_line](https://github.com/mike-coutinho/Get-Next-Line)    | Reads a file descriptor line by line  | 100 |
 
 
 
