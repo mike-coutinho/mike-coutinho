@@ -9,6 +9,7 @@
 | [Libft](https://github.com/mike-coutinho/libft)    | Custom implementation of standard C library      | 100 |
 | [Ft_Printf](https://github.com/mike-coutinho/Ft_printf)    | Reimplentation of printf     | 100 |
 | [Get_next_line](https://github.com/mike-coutinho/Get-Next-Line)    | Reads a file descriptor line by line  | 100 |
+| [Push_swap](https://github.com/mike-coutinho/Push_swap)    | Introduction to sorting algorithms  | 100 |
 
 
 
